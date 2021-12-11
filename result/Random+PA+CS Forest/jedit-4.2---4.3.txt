@@ -1,0 +1,3 @@
+RandomForest:   Weighted Avg.    0.925    0.624    0.965      0.925    0.943      0.176    0.633     0.960     
+ForestPA:   Weighted Avg.    0.951    0.534    0.970      0.951    0.960      0.292    0.756     0.970     
+CSForest:   Weighted Avg.    0.976    0.889    0.965      0.976    0.969      0.165    0.647     0.961     
